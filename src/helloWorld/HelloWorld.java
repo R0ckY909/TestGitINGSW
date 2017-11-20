@@ -14,6 +14,10 @@ public class HelloWorld {
 		
 		System.out.println("Uff... I can't merge branch and master! Why?!");
 		
+		System.out.println("Hurray! I have success!");
+		
+		System.out.println("Now I creating a new branch and I merging all!");
+		
 	}
 
 }
