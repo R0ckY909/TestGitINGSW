@@ -16,7 +16,9 @@ public class HelloWorld {
 		
 		System.out.println("Hurray! I have success!");
 		
-		System.out.println("Now I creating a new branch and I merging all!");
+		System.out.println("Now I create a new branch and I merging all!");
+		
+		System.out.println("Now I modify master...");
 		
 	}
 
