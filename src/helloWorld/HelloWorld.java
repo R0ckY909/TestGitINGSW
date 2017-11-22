@@ -20,6 +20,10 @@ public class HelloWorld {
 		
 		System.out.println("Now I modify master...");
 		
+		System.out.println("Now I re-create a new branch and I merging all!");
+		
+		System.out.println("STOP!");
+		
 	}
 
 }
